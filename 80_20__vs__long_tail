@@ -1,49 +1,54 @@
-# 80/20 versus long-tail strategies
+# Two-Sided Markets
+*Matchmaker, Matchmaker  
+Look through your book,  
+And make me a perfect match*  
+***--Fiddler on the Roof***
 
-20% of the population owns 80% of the land. 
+## Introduction
+"Uber, the world’s largest taxi company, owns no vehicles." [cite] But since the company is now worth $50 billion, casual observers may well ask what value they bring to the table. Formally, they provide a platform to connect drivers with riders. Informally? They're matchmakers. 
 
-This odd imbalance was noted not by the Occupy movement of 2011, but by Italian economist Vilfrado Pareto one hundred years earlier. He became fascinated by the imbalance and found that this pattern could be seen all around him. 
+Uber participates in a two-sided market, bridging drivers with riders on its proprietary platform through an app that lets them find each other and conduct transactions. Such markets are much more popular than in the past, and there are many other examples. Payment cards are one. Others include online auctions, video game consoles, advertising, even dating sites. In each case, the intermediary company adds value not by providing the product or service the consumer ultimately wants, but via its platform for helping the provider or consumer find her counterpart. 
 
-Today the idea has traction, partly because we have ready access to the relevant data. Those who look can find that:
-- 20% of a pub's patrons drink 80% of the beer
-- 20% of all books on Amazon comprise 80% of their sales
-- A person wears 20% of their wardrobe 80% of the time
-- 20% of their carpets receive 80% of the wear
-- 20% of their car's energy propels the vehicle; 80% is lost as heat
+## Definition
+>"A two-sided market is one in which 1) two sets of agents interact through an intermediary or platform, and 2) the decisions of each set of agents affects the outcomes of the other set of agents, typically through an externality," says economist Marc Rysman.
 
-We call the phenomenon the 80-20 principle, or the Pareto principle. 
+The platform can be an app, a web site, a managed venue like a flea market, a payment card network, etc. The externality is something like membership or usage; for example, membership in a dating site like Match.com, or usage of a payment system like Visa or Apple Pay.
 
-In a nutshell:
->"The Pareto principle is a prediction that 80% of effects come from 20% of causes." [cite]
+To see how this differs from a normal market, contrast it with store branded payment cards like the kind you find at retailers such as Target. Unlike general payment cards like Visa, Target's cards are part of a one-sided market where one side is also the intermediary.
 
-The rule leads to powerful advice: if 80% of problems or benefits come from a small minority of causes, we should focus our attention on these. 
+## Why Bother?
 
-They are the "vital few" causes, lost in a sea of the "trivial many." 
+Two-sided markets are more complex than comparable one-sided markets. There are more moving parts, and the theory is not yet fully developed nor widely taught. So we may well ask, why bother?
 
-They are the "hits" in a sea of "misses."
+One reason is that the intermediary may be able to act as price setter under certain circumstances. When one side's users are tied to a single platform--for instance, in video game consoles, where game development costs are high, developers often choose to support a single console--the platform provider can exert monopoly pricing power to that side. In the case of game consoles, this is implemented through hefty licensing fees.
 
-By putting our time, money, or effort into the a few critical, high leverage causes, we can effect great results, be they influence, profit, happiness, or anything else that we value.
+Another reason? There are a lot of unexplored opportunities in two-sided markets. It's often hard for an observer to identify all the moving parts, and understand clearly where profits may be had. To a clever entrepreneur who does not want to attract the wrong kind of attention, this is appealing.
 
-## Not So Fast
-But the trivial many may be more important than it seems.
-Demand curves are a classic Paretto distribution: the 20% "head" of the curve (the leftmost fifth) accounts for 80% of demand.
+But one of the most interesting possibilities comes from the way these platforms scale. Because of something called network effects, the value of a platform depends on the number of people using it (on the opposite side, the same side, or both). This correlation is often positive and desirable to the intermediary, and it grows quickly, as the square of the relevant number of users. So now you know why you can't quit Facebook.
 
->[curve] https://en.wikipedia.org/wiki/Long_tail#/media/File:Long_tail.svg
+## How To Build a Two-Sided Market
+Implementing a two-sided market requires you to get at least five things right. 
 
-This pattern affects commerce extensively. For example, because a traditional brick-and-mortar store cannot stock every product, it includes only the most popular, the 20%, the vital few. But today, the internet allows firms to tap into the varied, eclectic demand to the right of the curve--the 80%, the trivial many.  And something interesting happens when consumers have ready access to the less popular items: they buy them. 
+***1. Find a suitable market***
+You have to spot an opportunity to be a matchmaker. Matching temp workers directly to companies--excluding all those mediocre day labor agencies--would be a great place to start.
 
-For instance, though 13,000 films are shown in festivals each year, the carrying capacity of the U.S. market is only 100 films a year. In the past, most of the others would be forgotten, but today consumers can easily view them on the Internet or through Netflix. 
+***2. Build the platform***
+Participating in a two-sided market requires you to have a platform. Its purpose is to connect users of each type--for instance, riders and drivers. A good platform enables frictionless discovery and transaction between each type of user.
 
-## An Integrated Perspective
-So which is the true view of reality? Both. They are two sides of the same coin. Let's see if we can integrate them into cohesive advice.
+Typically, platforms are implemented with an app or website, so building or licensing one is critical. In some industries a white label solution is an option; for instance, some dating sites use a white label dating engine.
 
-- 20% of causes produce 80% of effects.
-- The 20% of causes are the vital few. Pay more attention to these.
-- But when thinking specifically of a demand curve, also consider the 80%--give buyers access to the majority of products that are not part of the vital few. Allow them to buy hits or niches.
-- If the marginal cost of offering each additional product is negligible, then that product should be profitable if it sells at all.
-- Just make sure that it's easy for shoppers to wade through the large number of offerings available. This is done via search tools and recommendation engines, as seen on Amazon and many other sites. 
+***3. Correctly decide pricing***
+Pricing in a two-sided market is not always what you would expect. In a one-sided market, marginal cost is a price floor, but in two-sided markets, price may be less than marginal cost, or even less than zero.
 
-## Citations
-- *The 80/20 Principle*
-- *The Long Tail*
-- https://en.wikipedia.org/wiki/Long_tail#/media/File:Long_tail.svg
+In cases like these, the money is coming from somewhere else. Much like the well known razor and blades model, in which razors are priced low to sell expensive blades, two-sided markets often have a money side and a subsidy side. Each pays a different price for participation.
+
+For example, PlayStation and XBox consoles are sold at a loss so the intermediary (Sony or Microsoft) can build a large market of gamers who use their platform. Gamers are the subsidy side. Sony and Microsoft fund the subsidy with license fees extracted from game developers (the money side). This is a great strategy, especially for firms with deep pockets.
+
+***4. Seed initial users***
+At first, neither side gains any value from using the platform. And they won't gain any value from doing so until others are using the platform, too. To get around this problem, some firms bait one side with an alternate offer.  For example, when yellow pages brand Yellow Book enters a new market, it offers local companies a free year of advertising in the book, which in turn drives consumers to use the book. 
+
+***5. Keep the motor running***
+Monitor your market to ensure that users on both sides stay engaged.
+
+## Wrap-Up
+Two-sided markets have been around for a very long time, but never before were they so popular. Automated platforms and general trust for the matchmaking paradigm have allowed these markets to flourish. Because they can develop opportunities that aren't obvious, they may offer the creative entrepreneur ways to make big bucks, especially since intermediaries can often exert monopoly pricing on users of one side of the platform. As entrepreneurs start thinking more about not just goods and services but also the mechanics of good business models, we may see more companies like Uber dominating previously secure industries.
