@@ -1,0 +1,72 @@
+# Scenario Poker
+
+*Every gambler knows  
+That the secret to survivin'  
+Is knowin' what to throw away  
+And knowin' what to keep*  
+--Kenny Rogers, "The Gambler"
+_____
+A struggling independent purse retailer in my city is trying to determine whether to quit the business. 
+
+It's a gut wrenching decision. His fortune is invested in his shop, which he loves, but so many variables are unknowable or out of his control: he may soon see a rent increase, because his lease expires in months. And increased demand due to a downtown development effort could actually cause him to lose his opportunity to renew. His flagship brand has to renew his distributorship next year, and these are just a few of the risks he must address. He's playing a game of poker. 
+
+In business life, this is typical. At any time a new product may be cancelled, or matched by a competitor's offering, successful, or late to market. While this is happening, other events will be playing out: a patent may be successful, or rejected, or delayed, or the application cancelled. The possibilities multiply. 
+
+We can (and should) use formal methods (decision trees, CPM, etc.) to chart our course. But these suffer a combinatorial explosion when we include more than a few alternatives. Just try to show a detailed decision tree on a single PowerPoint slide! Sometimes, an informal, qualitative method would be better. 
+
+## Scenario Poker
+To this end, I propose a simple, informal method to compliment the standard toolbox. I call it Scenario Poker. 
+
+Our deck comprises relevant events that might occur in the future. Their order designates an event sequence.
+
+The analogy rests on two reasonable assumptions. For a given project--buying a new car, quitting a business, living a life--there won't be that many relevant events. And their order, often imposed on us by outside forces, matters greatly.
+
+By creating a deck of our own playing cards, shuffling the deck, and dealing random hands, we can explore scenarios that may require our attention. 
+
+Here's how we could use this tool to think about the purse retailer's future:
+
+Using blank flash cards that you can find at a local school supply store, write out a few events that the owner should consider:
+* Competitor opens next door
+* Bank loan is approved
+* Rent goes up
+* Flagship brand drops you
+* Spring sales rise significantly
+
+Shuffle the cards and play a few rounds of the game. Let's say we dealt a hand of three cards:
+1. Rent goes up
+2. Flagship brand drops you
+3. Competitor opens next door
+Three consecutive strokes of bad luck might be more than he could handle. In this scenario, he might want to quit the business. Write down this scenario and its implications.
+
+Now deal a second hand, which we'll say is:
+1. Rent goes up
+2. Bank loan is approved
+3. Spring sales rise significantly
+
+Here, rent goes up but the bank loan and rising spring sales may be enough to compensate. We make a note of it. 
+
+Continue the process for several rounds to see how things might play out. Even a small deck can lead to some interesting observations.
+The method becomes really interesting when you use your own cards!
+
+## Variations
+>You could play Scenario Poker by writing a short computer program, but I like to use flash cards because they are social, if you want them to be. Bring your cards and a colleague to a bar or coffee shop; this will encourage freewheeling discussion that would never occur in the office in front of a spreadsheet.
+
+* You can make a deeper deck and deal only part of the deck each round. That lets you consider a larger universe of possible events.
+You can relax the order constraint if you think it doesn't apply to a particular topic. 
+
+* You might want to come up with a rating system for your scenarios. A scale from 1 to 5 stars would be a good place to start.
+
+* Adding details makes the method more interesting and more useful. It's easy to include variations like "Spring sales rise 10%" and "Spring sales rise 30%," as well as negatives like "You drop flagship brand" and "Bank loan rejected," each of which is opposite one of the event statements listed above. When you deal, you just ignore later cards that are opposite to or in compatible with the earlier cards. 
+
+* You could play Scenario Poker by writing a short computer program, but I like to use flash cards because they are social, if you want them to be. Bring your cards and a colleague to a bar or coffee shop; this will encourage freewheeling discussion that would never occur in the office in front of a spreadsheet.
+
+* If you want to really sell the method to your collaborators, use blank playing cards (check Amazon). They look the part and are easy to shuffle.
+
+## Conclusion
+Scenario Poker is a simple, fun, and social way to anticipate opportunities and challenges that you might otherwise ignore. Because you deal the cards randomly, you free yourself from assumptions about which events occur together, and in what order. This is really useful and can help you see threats and opportunities that you might otherwise ignore. But the social aspect is something special. You can easily spend hours discussing a single interesting scenario.
+
+Just don't try to plan for every contingency in this way, since even a short list can play out in thousands of different ways. The idea is to sketch out possible scenarios and find patterns that might need further study.
+
+So should the struggling retailer quit the business? Perhaps the answer really is in the cards. 
+___________
+Have you tried scenario poker? Tell us what you've learned. Email me at mattyoungrev3@gmail.com.
